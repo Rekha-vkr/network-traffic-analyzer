@@ -15,8 +15,6 @@ Thumbs.db
 # VS Code settings
 .vscode/
 
-# Generated results
-results/
 
 # Large dataset files
 data/*.csv
