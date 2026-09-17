@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Generated results
+results/
+
+# Large dataset files
+data/*.csv
+data/*.zip
+data/*.pcap
